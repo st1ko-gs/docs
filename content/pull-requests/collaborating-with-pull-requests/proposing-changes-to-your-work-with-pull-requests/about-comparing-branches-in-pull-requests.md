@@ -17,7 +17,7 @@ shortTitle: Compare branches
 ---
 {% note %}
 
-**Note:** When creating your pull request, you can change the base branch that you're comparing your changes against. For more information, see "[AUTOTITLE](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#changing-the-branch-range-and-destination-repository)."
+**Note:** When creating your pull request, you can change the base branch that you're comparing your changes against. For more information, see "[AUTOTITLE](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#changing-the-branch-range-and-destination-repository). Pull rewuest doesnt show if u push all and commit since then the code is already commited a PR are made for a senior or the leader of the team to accept the code and after they accept its merging to the main branch"
 
 {% endnote %}
 
